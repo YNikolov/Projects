@@ -1,1 +1,6 @@
-Probvam dali shte ka4a uspeshno tozi fail v GitHub
+touch README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/YNikolov/JavaProjects.git
+git push -u origin master
