@@ -12,12 +12,15 @@ public class _1_VideoDurations {
 				break;
 			}
 			String[] inputDuration = inputTime.split(":");
+			
 			int hours = Integer.parseInt(inputDuration[0]);
 			int minutes = Integer.parseInt(inputDuration[1]);
+			
 			duration += (hours * 60) + minutes;
 		}
 		int hours = duration / 60;
 		int minutes = duration % 60;
+		
 		System.out.printf("%d:%02d\n", hours, minutes);
 	}
 }
