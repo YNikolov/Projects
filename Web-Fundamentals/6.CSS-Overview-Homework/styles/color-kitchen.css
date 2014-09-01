@@ -1,0 +1,152 @@
+html, body, div, h1, ul, li, a, img, span, form, legend, input, button, textarea, fieldset {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+
+}
+body {
+    font-family: sans-serif;
+    background-image: url(../images/colorful_dots_on_black.jpg);
+    background-repeat: repeat;
+    
+}
+body>header{
+    width: 100%;
+    font-size: 43px;
+    font-weight: bold;
+    height: 70px;
+    color: yellow;
+    text-align: center;
+    background: linear-gradient(
+    to right,
+    red,
+    red 33.3%,
+    green 33.3%,
+    green 67.7%,
+    blue 67.7%);    
+}
+
+article{
+    height: auto;
+    background-color: #ECF5ED;
+}
+nav {
+    border-radius: 25px;
+    background-color: #ECF5ED;
+}
+aside {       
+    width:21%;
+    float: left;
+    margin: 25px 10px 5px;
+}
+
+nav header {
+    
+    padding: 15px 0px 0px 15px;
+    font-size: 25px;
+    text-decoration: underline;
+}
+nav ul {
+    list-style-image: url('../images/check.png');
+}
+nav ul li {    
+    font-size: 16px;
+    margin: 5px 15px 0px 45px;
+    padding: 5px;    
+    
+}
+nav ul li a{
+    text-decoration: none;
+    text-align: left;
+    color: black;
+}
+nav ul li a:visited{
+    color: grey;
+}
+nav ul li:nth-child(1):hover{    
+    background-color: red;
+    border-radius: 5px;
+}
+nav ul li:nth-child(2):hover{
+    background-color: orange;
+    border-radius: 5px;
+}
+nav ul li:nth-child(3):hover{
+    background-color: yellow;
+    border-radius: 5px;
+}
+nav ul li:nth-child(4):hover{    
+    background-color: green;
+    border-radius: 5px;
+}
+nav ul li:nth-child(5):hover{    
+    background-color: blue;
+    border-radius: 5px;
+}
+nav ul li:nth-child(6):hover{    
+    background-color: purple;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+section {
+    margin: 25px 24% 5px ;
+    width: 73%;
+    vertical-align: top; 
+    
+}
+section article {
+    margin-bottom: 10px;
+    border-radius: 25px;
+    padding: 12px;
+}
+
+section article div, section article footer {
+    font-size: 16px;
+    padding-left: 14px;
+
+}
+section article div:first-line {
+    font-style: italic;
+}
+span:lang(la) {
+    font-style: italic;
+    color: darkblue;
+}
+section article div:first-letter {
+font-size: 3em;
+}
+footer a {
+    color: grey;
+    font-style: italic;
+    margin-top: -12px;
+}
+#webColors, #webSafeColors, #RGB , #RGBA, #\#HSLHSV, #\#lorem  {    
+    margin: 5px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 500;
+    padding: 14px;
+    border-radius: 8px;
+}
+#webColors {
+    color: white;    
+    background-color: red;
+}
+#webSafeColors {
+    background-color: orange;
+}
+#RGB {
+ background-color: yellow;   
+}
+#RGBA {
+    color: white;
+    background-color: green;
+}
+#\#HSLHSV {
+    color: white;
+    background-color: blue;
+}
+#\#lorem {
+    color: white;
+     background-color: purple;
+}

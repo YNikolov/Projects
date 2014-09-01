@@ -1,0 +1,100 @@
+body {
+    font-family: Ariel,sans-serif;
+}
+header h1 {
+    margin: -10px auto 15px auto;    
+    font-size: 3em;
+    font-weight: normal;
+    text-align: center;
+    text-shadow: 8px 8px 4px #EFEFEF;
+}
+#GlobalForm {
+    width: 650px;
+    height: 190px;
+    border-top: 6px dotted yellow;    
+    border-left: 6px dashed red;    
+    border-right: 10px solid green;    
+    border-bottom:8px double blue;    
+    padding: 20px 20px 20px 20px;
+    box-shadow: 15px 15px 5px #454545;
+}
+#blue {
+    width: 650px;
+    border: 3px solid blue;
+    border-radius: 60px;
+    padding: 0px;
+}
+#green {
+    
+    border: 3px solid green;
+    border-radius: 60px;
+    padding: 0px;
+}
+#yellow {
+    border: 3px solid yellow;
+    border-radius: 60px;
+    padding: 0px;
+}
+#red {
+    border: 3px solid red;
+    border-radius: 60px;
+    padding: 15px;
+    text-align: center;
+}
+#red header {
+    font-size: 24px;
+    margin: 5px 0px 21px;
+    text-shadow: 5px 5px 5px #D2D3D3;
+}
+.orange {    
+    font-size: 20px;
+    margin-right: 5px;
+    background-color: #DC981B;    
+    padding: 2px 15px;
+    border-left: 3px solid  #FFAA00;
+    border-top: 3px solid  #FFAA00;
+    border-right: 3px solid #AF7400;
+    border-bottom: 3px solid #AF7400;
+}
+.small-circle{
+	background-color: rgba(169,170,170,0.6);
+	position: relative;
+	width:18px;
+	height: 18px;
+	border-radius: 50%;
+	border: 3px dashed white;
+	box-shadow: 0px 0px 0px 6px rgba(169,170,170,0.6);
+	top: -75px;
+	left: 533px;
+}
+.medium-circle{
+	background-color: rgba(169,170,170,0.6);
+	position: relative;
+	width:30px;
+	height: 30px;
+	border-radius: 50%;
+	border: 3px dashed white;
+	box-shadow: 0px 0px 0px 6px rgba(169,170,170,0.6);
+	top: -150px;
+	left: 592px;
+}
+.large-circle{
+	background-color: rgba(169,170,170,0.6);
+	position: relative;	
+	width:135px;
+	height: 80px;
+	border-radius: 45px;
+	border: 3px dashed white;
+	box-shadow: 0px 0px 0px 6px rgba(169,170,170,0.6);
+	top: -262px;
+	left: 625px;
+}
+.cool{
+    font-family: serif;
+	font-size: 25px;
+	font-weight: bold;
+	color: white;
+	margin-top: 7px;
+	text-align: center;
+	vertical-align: bottom;
+}
