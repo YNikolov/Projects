@@ -1,0 +1,6 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\bin\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.csprojResolveAssemblyReference.cache
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\11.NumbersInIntervalDividableByGivenNumber\obj\Debug\11.NumbersInIntervalDividableByGivenNumber.pdb

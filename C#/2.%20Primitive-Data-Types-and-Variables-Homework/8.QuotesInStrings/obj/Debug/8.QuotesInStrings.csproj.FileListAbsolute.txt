@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\8.QuotesInStrings\bin\Debug\8.QuotesInStrings.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\8.QuotesInStrings\bin\Debug\8.QuotesInStrings.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\8.QuotesInStrings\bin\Debug\8.QuotesInStrings.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\8.QuotesInStrings\obj\Debug\8.QuotesInStrings.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\8.QuotesInStrings\obj\Debug\8.QuotesInStrings.pdb

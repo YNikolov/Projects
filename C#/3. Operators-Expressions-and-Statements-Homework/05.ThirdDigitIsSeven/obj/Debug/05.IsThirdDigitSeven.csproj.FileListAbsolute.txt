@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\obj\Debug\05.ThirdDigitIsSeven.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\05.ThirdDigitIsSeven\bin\Debug\05.ThirdDigitIsSeven.pdb

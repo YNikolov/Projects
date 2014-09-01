@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\06.QuadraticAquation\bin\Debug\06.QuadraticAquation.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\06.QuadraticAquation\bin\Debug\06.QuadraticAquation.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\06.QuadraticAquation\bin\Debug\06.QuadraticAquation.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\06.QuadraticAquation\obj\Debug\06.QuadraticAquation.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\06.QuadraticAquation\obj\Debug\06.QuadraticAquation.pdb

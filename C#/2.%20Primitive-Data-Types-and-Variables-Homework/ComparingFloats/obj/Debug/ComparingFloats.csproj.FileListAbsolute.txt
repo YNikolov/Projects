@@ -1,0 +1,6 @@
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.pdb
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.csprojResolveAssemblyReference.cache
