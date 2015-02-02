@@ -1,0 +1,43 @@
+
+{
+  "id":3,
+  "name":"Biceps",
+  "image":"/img/chest.jpg",
+  "exercises":[
+    {
+      "id":1,
+      "name":"Barbell Curl",
+      "image":"/img/biceps/barbell curl.jpg"
+    },
+    {
+      "id":2,
+      "name":"Dumbbell Curl",
+      "image":"/img/biceps/dumbbell curl.jpg"
+    },
+    {
+      "id":3,
+      "name":"LZ Barbell Curl",
+      "image":"/img/biceps/lzBarbellCurl.jpg"
+    },
+    {
+      "id":4,
+      "name":"Preacher Curl",
+      "image":"/img/biceps/preacher curl.jpg"
+    },
+    {
+      "id":5,
+      "name":"Concentration Curl",
+      "image":"/img/biceps/concentration curl.jpg"
+    },
+    {
+      "id":6,
+      "name":"Hammer Curl",
+      "image":"/img/biceps/hammer curl.jpg"
+    },
+    {
+      "id":7,
+      "name":"Flat Dumbbell Flys",
+      "image":"/img/chest/Flat-Dumbbell-flys.jpg"
+    }
+  ]
+}

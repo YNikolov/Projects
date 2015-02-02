@@ -1,0 +1,48 @@
+
+{
+  "id":2,
+  "name":"Back",
+  "image":"/img/chest.jpg",
+  "exercises":[
+    {
+      "id":1,
+      "name":"Pull Up",
+      "image":"/img/back/pullup.jpg"
+    },
+    {
+      "id":2,
+      "name":"Pull Down",
+      "image":"/img/back/pulldown.jpg"
+    },
+    {
+      "id":3,
+      "name":"Barbell Row",
+      "image":"/img/back/barbellRow.jpg"
+    },
+    {
+      "id":4,
+      "name":"T-Bar Row",
+      "image":"/img/back/tBarRow.jpg"
+    },
+    {
+      "id":5,
+      "name":"One Arm Row",
+      "image":"/img/back/oneArmRow.jpg"
+    },
+    {
+      "id":6,
+      "name":"Seated Cable Row",
+      "image":"/img/back/seatedRow.jpg"
+    },
+    {
+      "id":7,
+      "name":"Dead Lift",
+      "image":"/img/back/deadLift.jpg"
+    },
+    {
+      "id":8,
+      "name":"Incline Dumbbell Flyes",
+      "image":"/img/chest/Incline-dumbbell-flys.jpg"
+    }
+  ]
+}

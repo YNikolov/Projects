@@ -1,0 +1,43 @@
+
+{
+  "id":4,
+  "name":"Legs",
+  "image":"/img/legs.jpg",
+  "exercises":[
+    {
+      "id":1,
+      "name":"Squat",
+      "image":"/img/legs/squat.jpg"
+    },
+    {
+      "id":2,
+      "name":"Front Squat",
+      "image":"/img/legs/front_squat.jpg"
+    },
+    {
+      "id":3,
+      "name":"Leg Press",
+      "image":"/img/legs/leg_pres.jpg"
+    },
+    {
+      "id":4,
+      "name":"Walking Lunge",
+      "image":"/img/legs/walking_lunge.jpg"
+    },
+    {
+      "id":5,
+      "name":"Romanian Deadlift",
+      "image":"/img/legs/romanian_deadlift.jpg"
+    },
+    {
+      "id":6,
+      "name":"Standing Calf Raise",
+      "image":"/img/legs/standing_calf_raise.jpg"
+    },
+    {
+      "id":7,
+      "name":"Flat Dumbbell Flys",
+      "image":"/img/chest/Flat-Dumbbell-flys.jpg"
+    }
+  ]
+}

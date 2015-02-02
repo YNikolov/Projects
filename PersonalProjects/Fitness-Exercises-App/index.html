@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Fitness Exercises</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css" />
+    <link rel="stylesheet" href="../css/bootstrap-theme.min.css" />
+    <link rel="stylesheet" href="../css/app.css" />
+</head>
+<body ng-app="fitnessExerciseApp" ng-controller="PageController" ng-cloak>
+<div class="navbar navbar-default navbar-fixed-top">
+    <div class="container body">
+
+
+        <div class="navbar-header">
+            <a href="#/home" class="navbar-brand">Anatomy</a>
+            <button class="navbar-toggle" type="button" data-toggle="collapse" data-target="#navbar-main">
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+        </div>
+        <div class="navbar-collapse collapse" id="navbar-main">
+            <ul class="nav navbar-nav">
+                <li>
+                    <a href="#/chest">Chests</a>
+                </li>
+                <li>
+                    <a href="#/back">Back</a>
+                </li>
+                <li>
+                 <a href="#/shoulders">Shoulders</a>
+                </li>
+                <li>
+                    <a href="#/biceps">Biceps</a>
+                </li>
+                <li>
+                    <a href="#/triceps">Triceps</a>
+                </li>
+                <li>
+                    <a href="#/legs">Legs</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div ng-view>
+
+</div>
+
+<hr />
+<footer class="text-center" ng-cloak>
+    <small>
+        <strong>Author:{{ author }}</strong>
+    </small>
+</footer>
+<hr />
+
+<script src="lib/jquery.min.js"></script>
+<script src="lib/bootstrap.min.js"></script>
+<script src="lib/angular/angular.js"></script>
+<script src="lib/angular/angular-resource.min.js"></script>
+<script src="lib/angular/angular-route.min.js"></script>
+<script src="js/app.js"></script>
+<script src="js/controllers/PageController.js"></script>
+<script src="js/controllers/HomePageController.js"></script>
+<script src="js/controllers/ChestPageController.js"></script>
+<script src="js/controllers/BackPageController.js"></script>
+<script src="js/controllers/ShouldersPageController.js"></script>
+<script src="js/controllers/BicepsPageController.js"></script>
+<script src="js/controllers/TricepsPageController.js"></script>
+<script src="js/controllers/LegsPageController.js"></script>
+<script src="js/services/fitnessExerciseData.js"></script>
+<script src="js/directives/chestDirectives.js"></script>
+<script src="templates/home.html"></script>
+<script src="templates/chest.html"></script>
+<script src="templates/directives/exercise-info-directive.html"></script>
+</body>
+</html>

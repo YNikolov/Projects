@@ -1,0 +1,38 @@
+
+{
+  "id":6,
+  "name":"Triceps",
+  "image":"/img/chest.jpg",
+  "exercises":[
+    {
+      "id":1,
+      "name":"Close Grip Bench Press",
+      "image":"/img/triceps/closeGripBenchPress.jpg"
+    },
+    {
+      "id":2,
+      "name":"Laying French Press",
+      "image":"/img/triceps/french.jpg"
+    },
+    {
+      "id":3,
+      "name":"Triceps Extension",
+      "image":"/img/triceps/tricepsExtension.jpg"
+    },
+    {
+      "id":4,
+      "name":"Kick Back",
+      "image":"/img/triceps/kickBack.jpg"
+    },
+    {
+      "id":5,
+      "name":"Push Down",
+      "image":"/img/triceps/pushDown.jpg"
+    },
+    {
+      "id":6,
+      "name":"Flat Bench Cable Crossovers",
+      "image":"/img/chest/Flat-bench-cable-crossovers.jpg"
+    }
+  ]
+}

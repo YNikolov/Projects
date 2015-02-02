@@ -1,0 +1,14 @@
+<div class="container" ng-controller="ShouldersPageController">
+    <div class="row">
+        <div><h2>Shoulders</h2></div>
+        <div class="col-md-6">
+            <img src="/img/shoulder_muscles.jpg" class="img-thumbnail" alt="Responsive image" />
+        </div>
+        <div class="col-md-6 pull-right">
+            <div class="embed-responsive embed-responsive-16by9">
+                <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/fDoenbNPMYw" style="width: 560px; height: 340px"></iframe>
+            </div>
+        </div>
+        <div exercise-info ng-repeat="exercise in exercise.exercises"></div>
+    </div>
+</div>
