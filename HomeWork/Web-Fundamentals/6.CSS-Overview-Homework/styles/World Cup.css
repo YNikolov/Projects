@@ -1,0 +1,126 @@
+html, body, div, h1, ul, li, a, img, span, form, legend, input, button, textarea, fieldset {
+  margin: 0;
+  padding: 0;
+}
+body {
+    font-family: sans-serif;
+    background-color: green;
+    margin: 15px;
+
+    
+}
+table {
+    border: 1px solid black ;
+    border-radius: 15px;
+    
+}
+table td {
+    border: 1px solid black;
+}
+section table thead {
+    border: 0px;
+    
+    font-size: 24px;    
+    background-color: #F8CA14;    
+
+}
+section table thead th {
+        padding: 5px;    
+
+}
+section table thead th:nth-child(1){
+    width: 142px;
+    text-align: right;
+    border-top-left-radius: 15px;
+}
+section table thead th:nth-child(3){
+    text-align: left;
+}
+section table thead th:nth-child(5){
+    border-top-right-radius: 15px;
+}
+section table tbody tr td:nth-child(3){
+    width: 142px;
+    padding-left: 5px;
+}
+section table tbody tr td:nth-child(1){
+    
+    padding-right: 5px;
+    text-align: right;
+}
+section table tbody td input {
+    margin: 0px 5px 0px 5px;
+    width: 25px;
+    padding: 5px 0px 5px 2px;
+}
+section table tbody td img {
+    vertical-align: bottom;    
+}
+/*
+input[type="number"] {
+    margin: 1px;
+}
+*/
+.back {
+    
+    color: white; 
+}
+.redButton input[type="submit"] {
+    font-size: 11px;
+    color: white;
+    height: 36px;
+    width: 36px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: red;
+}
+
+.greenButton input[type="submit"] {
+   
+    font-size: 11px;
+    color: white;
+    height: 36px;
+    width: 36px;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 50%;
+    background-color: green;
+    
+}
+.tbody .red input {
+    color: red;
+    margin-left: 5px;
+    
+}
+.tbody .green input {
+    color: green;
+}
+.tbody tr td:nth-child(2) {
+    text-align: center;
+}
+.tbody tr td:nth-child(4) {
+    text-align: center;
+}
+.tbody tr td:nth-child(5) {
+    width: 122px;
+    text-align: right;
+    padding-right: 7px;
+}
+.tbody tr td:nth-child(7) {
+    width: 112px;
+    text-align: left;
+    padding-left: 7px;
+}
+.tbody tr:nth-child(even) {
+    background-color: #C8C8C8;
+}
+.tbody tr:nth-child(odd) {
+    background-color: white;
+}
+#roundtd {
+    border-bottom-left-radius: 15px;
+}
+#roundTdRight {
+    border-bottom-right-radius: 15px;
+}

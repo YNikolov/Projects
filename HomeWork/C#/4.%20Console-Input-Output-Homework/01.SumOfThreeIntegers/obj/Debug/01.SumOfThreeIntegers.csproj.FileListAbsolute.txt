@@ -1,0 +1,5 @@
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\01.SumOfThreeIntegers\bin\Debug\01.SumOfThreeIntegers.exe.config
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\01.SumOfThreeIntegers\bin\Debug\01.SumOfThreeIntegers.exe
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\01.SumOfThreeIntegers\bin\Debug\01.SumOfThreeIntegers.pdb
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\01.SumOfThreeIntegers\obj\Debug\01.SumOfThreeIntegers.exe
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\01.SumOfThreeIntegers\obj\Debug\01.SumOfThreeIntegers.pdb

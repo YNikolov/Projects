@@ -1,0 +1,6 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03\bin\Debug\03.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03\obj\Debug\03.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03\obj\Debug\03.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03.MinMaxSumAndAverage\bin\Debug\03.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03.MinMaxSumAndAverage\obj\Debug\03.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\03.MinMaxSumAndAverage\obj\Debug\03.pdb

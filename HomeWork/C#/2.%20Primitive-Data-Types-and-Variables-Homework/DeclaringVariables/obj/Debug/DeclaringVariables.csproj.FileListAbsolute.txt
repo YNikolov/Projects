@@ -1,0 +1,6 @@
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.csprojResolveAssemblyReference.cache
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
+c:\users\y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb

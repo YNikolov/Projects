@@ -1,0 +1,34 @@
+header {          
+    font-size: 39px;
+    text-align: center;
+    color: #FFFF00;
+    margin: 5px;  
+}
+section {
+    width: 800px;        
+    border-radius: 10px;        
+    background-color: black;    
+    display:inline-block;
+    box-sizing: border-box;
+    vertical-align: top;            
+}
+iframe {
+    border-color: #FFFF00;   
+    margin-bottom: 10px;
+}
+
+
+ul a {
+        text-decoration: none;
+        color: white;
+    }
+
+.cars {
+    width: 400px;
+    height: 210px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    padding-bottom: 30px;        
+}
+
+    

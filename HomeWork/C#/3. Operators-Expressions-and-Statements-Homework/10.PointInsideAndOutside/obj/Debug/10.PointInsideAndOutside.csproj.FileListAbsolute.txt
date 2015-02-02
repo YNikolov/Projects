@@ -1,0 +1,6 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\bin\Debug\10.PointInsideAndOutside.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\bin\Debug\10.PointInsideAndOutside.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\bin\Debug\10.PointInsideAndOutside.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\obj\Debug\10.PointInsideAndOutside.csprojResolveAssemblyReference.cache
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\obj\Debug\10.PointInsideAndOutside.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\10.PointInsideAndOutside\obj\Debug\10.PointInsideAndOutside.pdb

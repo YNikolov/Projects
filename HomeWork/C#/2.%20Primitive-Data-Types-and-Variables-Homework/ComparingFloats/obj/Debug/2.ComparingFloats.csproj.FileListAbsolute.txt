@@ -1,0 +1,3 @@
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\bin\Debug\ComparingFloats.exe.config
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.exe
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\ComparingFloats\obj\Debug\ComparingFloats.pdb

@@ -1,0 +1,6 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\bin\Debug\08.NthCatanNumber.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\bin\Debug\08.NthCatanNumber.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\bin\Debug\08.NthCatanNumber.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\obj\Debug\08.NthCatanNumber.csprojResolveAssemblyReference.cache
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\obj\Debug\08.NthCatanNumber.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\08.NthCatanNumber\obj\Debug\08.NthCatanNumber.pdb

@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\11.EmployeeData\bin\Debug\11.EmployeeData.exe.config
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\11.EmployeeData\bin\Debug\11.EmployeeData.exe
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\11.EmployeeData\bin\Debug\11.EmployeeData.pdb
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\11.EmployeeData\obj\Debug\11.EmployeeData.exe
+C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\11.EmployeeData\obj\Debug\11.EmployeeData.pdb

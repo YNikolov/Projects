@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\08.NumbersFrom1ToN\bin\Debug\08.NumbersFrom1ToN.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\08.NumbersFrom1ToN\obj\Debug\08.NumbersFrom1ToN.pdb

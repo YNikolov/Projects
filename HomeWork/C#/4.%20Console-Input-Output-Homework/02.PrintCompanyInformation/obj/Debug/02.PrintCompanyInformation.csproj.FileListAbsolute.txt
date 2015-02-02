@@ -1,0 +1,5 @@
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe.config
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.exe
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\02.PrintCompanyInformation\bin\Debug\02.PrintCompanyInformation.pdb
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.exe
+c:\users\y\documents\visual studio 2012\Projects\ConsoleInputOutputHomework\02.PrintCompanyInformation\obj\Debug\02.PrintCompanyInformation.pdb

@@ -1,0 +1,5 @@
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\7. StringsAndObjects\bin\Debug\_7.StringsAndObjects.exe.config
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\7. StringsAndObjects\bin\Debug\_7.StringsAndObjects.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\7. StringsAndObjects\bin\Debug\_7.StringsAndObjects.pdb
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\7. StringsAndObjects\obj\Debug\_7.StringsAndObjects.exe
+C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\7. StringsAndObjects\obj\Debug\_7.StringsAndObjects.pdb

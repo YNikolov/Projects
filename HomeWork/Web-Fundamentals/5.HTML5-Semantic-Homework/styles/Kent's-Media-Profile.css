@@ -1,0 +1,43 @@
+#sections {
+    border-radius: 8px;
+    background-color: #FFC0CB;
+}
+#header {    
+    text-align: center;
+    padding-top: 1px;
+}
+#meter {
+    width: 64%;
+}
+#kent{    
+    height: 190px;        
+}
+
+.video {    
+    margin-left: 3px;
+    margin-right: 15px;
+    padding-bottom: 0
+}
+.audio {
+    margin-left: -20px;
+}
+.audioPlayer {
+    margin-bottom: 1px;
+    border-radius: 0px;
+    height: 80px;
+    background-color: black;
+    padding-top: 10%
+}
+figure {
+    margin-top: auto;
+    margin-left: 5%;
+}
+
+section {
+    font-size: 24px;
+    box-sizing: border-box;
+    align-content: center;    
+    padding-bottom: 5px;    
+    vertical-align:text-top;
+    display: inline-block;    
+}
