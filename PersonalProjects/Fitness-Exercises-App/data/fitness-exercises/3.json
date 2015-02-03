@@ -7,37 +7,38 @@
     {
       "id":1,
       "name":"Barbell Curl",
-      "image":"/img/biceps/barbell curl.jpg"
+      "image":"/img/biceps/barbell curl.jpg",
+      "info":"/img/biceps/barbell-info.PNG"
     },
     {
       "id":2,
       "name":"Dumbbell Curl",
-      "image":"/img/biceps/dumbbell curl.jpg"
+      "image":"/img/biceps/dumbbell curl.jpg",
+      "info":"/img/biceps/dumbbellCurl-info.PNG"
     },
     {
       "id":3,
       "name":"LZ Barbell Curl",
-      "image":"/img/biceps/lzBarbellCurl.jpg"
+      "image":"/img/biceps/lzBarbellCurl.jpg",
+      "info":"/img/biceps/barbell-info.PNG"
     },
     {
       "id":4,
       "name":"Preacher Curl",
-      "image":"/img/biceps/preacher curl.jpg"
+      "image":"/img/biceps/preacher curl.jpg",
+      "info":"/img/biceps/preacher-info.PNG"
     },
     {
       "id":5,
       "name":"Concentration Curl",
-      "image":"/img/biceps/concentration curl.jpg"
+      "image":"/img/biceps/concentration curl.jpg",
+      "info":"/img/biceps/concentration-info.PNG"
     },
     {
       "id":6,
       "name":"Hammer Curl",
-      "image":"/img/biceps/hammer curl.jpg"
-    },
-    {
-      "id":7,
-      "name":"Flat Dumbbell Flys",
-      "image":"/img/chest/Flat-Dumbbell-flys.jpg"
+      "image":"/img/biceps/hammer curl.jpg",
+      "info":"/img/biceps/hammer-info.PNG"
     }
   ]
 }

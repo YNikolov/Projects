@@ -7,67 +7,74 @@
   {
     "id":1,
     "name":"Bench Press",
-    "image":"/img/chest/benchPress.jpg"
+    "image":"/img/chest/benchPress.jpg",
+    "info":"/img/chest/benchPress-info.PNG"
   },
   {
     "id":2,
     "name":"Incline Bench Press",
-    "image":"/img/chest/inclineBenchPress.jpg"
+    "image":"/img/chest/inclineBenchPress.jpg",
+    "info":"/img/chest/incline-info.PNG"
   },
   {
     "id":3,
     "name":"Decline Dumbbell Presses",
-    "image":"/img/chest/Decline-dumbbell-presses.jpg"
+    "image":"/img/chest/Decline-dumbbell-presses.jpg",
+    "info":"/img/chest/decline-info.PNG"
   },
   {
     "id":4,
     "name":"Dumbbell Flat Bench Press",
-    "image":"/img/chest/dumbbell-flat-bench-presses.jpg"
+    "image":"/img/chest/dumbbell-flat-bench-presses.jpg",
+    "info":"/img/chest/dumbbellPress-info.PNG"
   },
   {
     "id":5,
     "name":"Incline Dumbbell Bench Press",
-    "image":"/img/chest/Incline-dumbbell-bench-presses.jpg"
+    "image":"/img/chest/Incline-dumbbell-bench-presses.jpg",
+    "info":"/img/chest/inclineDumbbell-info.PNG"
   },
   {
     "id":6,
     "name":"Flat Bench Cable Crossovers",
-    "image":"/img/chest/Flat-bench-cable-crossovers.jpg"
+    "image":"/img/chest/Flat-bench-cable-crossovers.jpg",
+    "info":"/img/chest/dumbbellFlyes-info.PNG"
   },
   {
     "id":7,
     "name":"Flat Dumbbell Flys",
-    "image":"/img/chest/Flat-Dumbbell-flys.jpg"
+    "image":"/img/chest/Flat-Dumbbell-flys.jpg",
+    "info":"/img/chest/dumbbellFlyes-info.PNG"
   },
   {
     "id":8,
-    "name":"Incline Dumbbell Flys",
-    "image":"/img/chest/Incline-dumbbell-flys.jpg"
+    "name":"Incline Dumbbell Fly",
+    "image":"/img/chest/Incline-dumbbell-flys.jpg",
+    "info":"/img/chest/inclineFlyes-info.PNG"
   },
   {
     "id":9,
     "name":"Dips",
-    "image":"/img/chest/Parallel-bar-dips.jpg"
+    "image":"/img/chest/Parallel-bar-dips.jpg",
+    "info":"/img/chest/dips-info.PNG"
   },
   {
     "id":10,
-    "name":"Pullovers With Barbell",
-    "image":"/img/chest/Pullovers-with-barbell.jpg"
+    "name":"Dumbbell Pullover",
+    "image":"/img/chest/pullovers.jpg",
+    "info":"/img/chest/pullover-info.PNG"
   },
   {
     "id":11,
     "name":"Pec Deck",
-    "image":"/img/chest/pec-deck.jpg"
+    "image":"/img/chest/pecDeck.jpg",
+    "info":"/img/chest/peckDeck-info.PNG"
   },
   {
     "id":12,
     "name":"Standing Cable Crossovers",
-    "image":"/img/chest/Standing-cable-crossovers.jpg"
-  },
-  {
-    "id":1,
-    "name":"Bench Press",
-    "image":"/img/chest/benchPress.jpg"
+    "image":"/img/chest/crossover.jpg",
+    "info":"/img/chest/cable-info.PNG"
   }
   ]
 }

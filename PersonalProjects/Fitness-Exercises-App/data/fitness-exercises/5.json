@@ -7,32 +7,39 @@
     {
       "id":1,
       "name":"Machine Shoulder Press",
-      "image":"/img/shoulders/machine-shoulder-press.jpg"
+      "image":"/img/shoulders/machine-shoulder-press.jpg",
+      "info":"/img/shoulders/frontPress-info.PNG"
+
     },
     {
       "id":2,
       "name":"Overhead Press",
-      "image":"/img/shoulders/overhead-press.jpg"
+      "image":"/img/shoulders/overhead-press.jpg",
+      "info":"/img/shoulders/frontPress-info.PNG"
     },
     {
       "id":3,
-      "name":"High Pull",
-      "image":"/img/shoulders/high-pull.jpg"
+      "name":"Upright Row",
+      "image":"/img/shoulders/high-pull.jpg",
+      "info":"/img/shoulders/upRight-info.PNG"
     },
     {
       "id":4,
       "name":"Dumbbell Bent Over Lateral Raise",
-      "image":"/img/shoulders/dumbell-bentover-lateral-raise.jpg"
+      "image":"/img/shoulders/dumbell-bentover-lateral-raise.jpg",
+      "info":"/img/shoulders/bentOver-info.PNG"
     },
     {
       "id":5,
-      "name":"Incline Dumbbell Bench Press",
-      "image":"/img/chest/Incline-dumbbell-bench-presses.jpg"
+      "name":"Dumbbell Front Raise",
+      "image":"/img/shoulders/dumbbellFrontRaise.jpg",
+      "info":"/img/shoulders/oneArmFront-info.PNG"
     },
     {
       "id":6,
-      "name":"Flat Bench Cable Crossovers",
-      "image":"/img/chest/Flat-bench-cable-crossovers.jpg"
+      "name":"Lateral Dumbbell Raise",
+      "image":"/img/shoulders/lateral-raises.jpg",
+      "info":"/img/shoulders/lateral-info.PNG"
     }
   ]
 }

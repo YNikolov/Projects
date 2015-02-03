@@ -27,4 +27,5 @@ var fitnessExerciseApp = angular
             })
             .otherwise({redirectTo: '/index.html'});
     })
-    .constant('author', 'Yavor Nikolov');
+    .constant('author', 'Yavor Nikolov')
+    .constant('materials', 'Frederic Delavier - Strength Training Anatomy(second_edition)');

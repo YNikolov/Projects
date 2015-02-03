@@ -67,3 +67,9 @@ input.ng-dirty.ng-valid.validity {
 [ng\:cloak], [ng-cloak], .ng-cloak {
   display: none !important;
 }
+footer small {
+    color: #fefb10;
+}
+footer strong{
+    color: #ffffff;
+}

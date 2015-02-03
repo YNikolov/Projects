@@ -7,42 +7,44 @@
     {
       "id":1,
       "name":"Pull Up",
-      "image":"/img/back/pullup.jpg"
+      "image":"/img/back/pullup.jpg",
+      "info":"/img/back/pullUp-info.PNG"
     },
     {
       "id":2,
       "name":"Pull Down",
-      "image":"/img/back/pulldown.jpg"
+      "image":"/img/back/pulldown.jpg",
+      "info":"/img/back/pullDown-info.PNG"
     },
     {
       "id":3,
       "name":"Barbell Row",
-      "image":"/img/back/barbellRow.jpg"
+      "image":"/img/back/barbellRow.jpg",
+      "info":"/img/back/barbellRow-info.PNG"
     },
     {
       "id":4,
       "name":"T-Bar Row",
-      "image":"/img/back/tBarRow.jpg"
+      "image":"/img/back/tBarRow.jpg",
+      "info":"/img/back/t-bar-info.PNG"
     },
     {
       "id":5,
       "name":"One Arm Row",
-      "image":"/img/back/oneArmRow.jpg"
+      "image":"/img/back/oneArmRow.jpg",
+      "info":"/img/back/oneArm-info.PNG"
     },
     {
       "id":6,
       "name":"Seated Cable Row",
-      "image":"/img/back/seatedRow.jpg"
+      "image":"/img/back/seatedRow.jpg",
+      "info":"/img/back/seated-info.PNG"
     },
     {
       "id":7,
       "name":"Dead Lift",
-      "image":"/img/back/deadLift.jpg"
-    },
-    {
-      "id":8,
-      "name":"Incline Dumbbell Flyes",
-      "image":"/img/chest/Incline-dumbbell-flys.jpg"
+      "image":"/img/back/deadLift.jpg",
+      "info":"/img/back/deadlift-info.PNG"
     }
   ]
 }

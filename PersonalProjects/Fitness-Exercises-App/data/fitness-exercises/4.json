@@ -7,37 +7,50 @@
     {
       "id":1,
       "name":"Squat",
-      "image":"/img/legs/squat.jpg"
+      "image":"/img/legs/squat.jpg",
+      "info":"/img/legs/squat-info.PNG"
     },
     {
       "id":2,
       "name":"Front Squat",
-      "image":"/img/legs/front_squat.jpg"
+      "image":"/img/legs/front_squat.jpg",
+      "info":"/img/legs/frontSq-info.PNG"
     },
     {
       "id":3,
       "name":"Leg Press",
-      "image":"/img/legs/leg_pres.jpg"
+      "image":"/img/legs/leg_pres.jpg",
+      "info":"/img/legs/legPress-info.PNG"
     },
     {
       "id":4,
       "name":"Walking Lunge",
-      "image":"/img/legs/walking_lunge.jpg"
+      "image":"/img/legs/walking_lunge.jpg",
+      "info":"/img/legs/lunge-info.PNG"
     },
     {
       "id":5,
       "name":"Romanian Deadlift",
-      "image":"/img/legs/romanian_deadlift.jpg"
+      "image":"/img/legs/romanian_deadlift.jpg",
+      "info":"/img/legs/stiffDeadlift-info.PNG"
     },
     {
       "id":6,
       "name":"Standing Calf Raise",
-      "image":"/img/legs/standing_calf_raise.jpg"
+      "image":"/img/legs/standing_calf_raise.jpg",
+      "info":"/img/legs/standingCalf-info.PNG"
     },
     {
-      "id":7,
-      "name":"Flat Dumbbell Flys",
-      "image":"/img/chest/Flat-Dumbbell-flys.jpg"
+    "id":7,
+    "name":"Leg Extension",
+    "image":"/img/legs/legExt.jpg",
+    "info":"/img/legs/legExtension-info.PNG"
+    },
+    {
+      "id":6,
+      "name":"Lying Leg Curl",
+      "image":"/img/legs/lyingLCurl.jpg",
+      "info":"/img/legs/lying-info.PNG"
     }
   ]
 }
