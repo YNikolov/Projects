@@ -25,7 +25,7 @@ var fitnessExerciseApp = angular
             .when('/legs', {
                 templateUrl: 'templates/legs.html'
             })
-            .otherwise({redirectTo: '/index.html'});
+            .otherwise({redirectTo: '/home'});
     })
     .constant('author', 'Yavor Nikolov')
     .constant('materials', 'Frederic Delavier - Strength Training Anatomy(second_edition)');
