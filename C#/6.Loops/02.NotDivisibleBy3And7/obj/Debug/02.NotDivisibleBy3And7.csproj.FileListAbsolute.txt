@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02\bin\Debug\02.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02\obj\Debug\02.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02\obj\Debug\02.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02.NotDivisibleBy3And7\bin\Debug\02.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02.NotDivisibleBy3And7\obj\Debug\02.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02.NotDivisibleBy3And7\obj\Debug\02.pdb

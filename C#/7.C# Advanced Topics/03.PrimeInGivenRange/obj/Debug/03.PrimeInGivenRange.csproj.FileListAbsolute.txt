@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\bin\Debug\03.PrimeInGivenRange.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\bin\Debug\03.PrimeInGivenRange.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\bin\Debug\03.PrimeInGivenRange.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.csprojResolveAssemblyReference.cache
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\03.PrimeInGivenRange\obj\Debug\03.PrimeInGivenRange.pdb

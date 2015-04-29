@@ -1,5 +1,0 @@
-C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe.config
-C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.exe
-C:\Users\Y\documents\visual studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\obj\Debug\DeclaringVariables.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\PrimitiveDataTypesAndVariables\DeclaringVariables\bin\Debug\DeclaringVariables.pdb

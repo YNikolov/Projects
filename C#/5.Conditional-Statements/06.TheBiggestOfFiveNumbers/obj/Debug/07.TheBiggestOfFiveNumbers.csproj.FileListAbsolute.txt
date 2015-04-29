@@ -1,1 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\07.TheBiggestOfFiveNumbers\bin\Debug\07.TheBiggestOfFiveNumbers.exe.config

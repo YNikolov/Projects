@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\bin\Debug\10.FibonacciNumbers.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\10.FibonacciNumbers\obj\Debug\10.FibonacciNumbers.pdb

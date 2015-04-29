@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.CheckBitPosition\bin\Debug\13.CheckBitPosition.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.CheckBitPosition\obj\Debug\13.CheckBitPosition.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\13.CheckBitPosition\obj\Debug\13.CheckBitPosition.pdb

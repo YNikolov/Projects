@@ -1,3 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\16.BitExchange\bin\Debug\16.BitExchange.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\16.BitExchange\obj\Debug\16.BitExchange.pdb

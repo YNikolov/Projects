@@ -1,3 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\bin\Debug\06.TheBiggestOfFiveNumbers.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\05.TheBiggestOfThreeNumbers\obj\Debug\06.TheBiggestOfFiveNumbers.pdb

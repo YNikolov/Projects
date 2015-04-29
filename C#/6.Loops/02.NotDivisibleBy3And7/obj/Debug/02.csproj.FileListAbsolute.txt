@@ -1,6 +1,0 @@
-c:\users\y\documents\visual studio 2012\Projects\Loops\02\bin\Debug\02.exe.config
-c:\users\y\documents\visual studio 2012\Projects\Loops\02\obj\Debug\02.exe
-c:\users\y\documents\visual studio 2012\Projects\Loops\02\obj\Debug\02.pdb
-c:\users\y\documents\visual studio 2012\Projects\Loops\02\bin\Debug\02.exe
-c:\users\y\documents\visual studio 2012\Projects\Loops\02\bin\Debug\02.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\02\obj\Debug\02.csprojResolveAssemblyReference.cache

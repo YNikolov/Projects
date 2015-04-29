@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\bin\Debug\02.WeightOfAManOnTheMoon.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\bin\Debug\02.WeightOfAManOnTheMoon.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\bin\Debug\02.WeightOfAManOnTheMoon.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\obj\Debug\02.WeightOfAManOnTheMoon.csprojResolveAssemblyReference.cache
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\obj\Debug\02.WeightOfAManOnTheMoon.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\02.WeightOfAManOnTheMoon\obj\Debug\02.WeightOfAManOnTheMoon.pdb

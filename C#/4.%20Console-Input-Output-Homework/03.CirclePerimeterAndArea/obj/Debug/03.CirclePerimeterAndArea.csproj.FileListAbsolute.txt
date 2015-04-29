@@ -1,8 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\3\bin\Debug\3.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\3\obj\Debug\3.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\3\obj\Debug\3.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\3\bin\Debug\3.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\3\bin\Debug\3.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\03.CirclePerimeterAndArea\bin\Debug\3.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\03.CirclePerimeterAndArea\obj\Debug\3.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\03.CirclePerimeterAndArea\obj\Debug\3.pdb

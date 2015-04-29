@@ -1,3 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\07\bin\Debug\07.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\07\obj\Debug\07.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Conditional-Statements\07\obj\Debug\07.pdb

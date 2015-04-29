@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\bin\Debug\06.CalculateNAndK.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\bin\Debug\06.CalculateNAndK.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\bin\Debug\06.CalculateNAndK.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\obj\Debug\06.CalculateNAndK.csprojResolveAssemblyReference.cache
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\obj\Debug\06.CalculateNAndK.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\06.CalculateNAndK\obj\Debug\06.CalculateNAndK.pdb

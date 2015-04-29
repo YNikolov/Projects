@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\07.PointInACircle\bin\Debug\07.PointInACircle.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\07.PointInACircle\obj\Debug\07.PointInACircle.pdb

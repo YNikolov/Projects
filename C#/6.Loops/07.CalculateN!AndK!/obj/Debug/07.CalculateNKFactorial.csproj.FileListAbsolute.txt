@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\bin\Debug\07.CalculateN!AndK!.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\bin\Debug\07.CalculateN!AndK!.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\bin\Debug\07.CalculateN!AndK!.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\obj\Debug\07.CalculateN!AndK!.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\obj\Debug\07.CalculateN!AndK!.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\07.CalculateN!AndK!\obj\Debug\07.CalculateNKFactorial.csprojResolveAssemblyReference.cache

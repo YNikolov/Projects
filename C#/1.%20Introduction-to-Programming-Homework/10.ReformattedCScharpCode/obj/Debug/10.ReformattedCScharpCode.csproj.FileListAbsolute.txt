@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\10.ReformattedCScharpCode\bin\Debug\10.ReformattedCScharpCode.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\10.ReformattedCScharpCode\bin\Debug\10.ReformattedCScharpCode.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\10.ReformattedCScharpCode\bin\Debug\10.ReformattedCScharpCode.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\10.ReformattedCScharpCode\obj\Debug\10.ReformattedCScharpCode.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\10.ReformattedCScharpCode\obj\Debug\10.ReformattedCScharpCode.pdb

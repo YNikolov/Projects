@@ -1,6 +1,0 @@
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-C:\Users\Y\documents\visual studio 2012\Projects\CSharpAdvanced\ConsoleApplication1\obj\Debug\01.FibonacciNumbers.csprojResolveAssemblyReference.cache

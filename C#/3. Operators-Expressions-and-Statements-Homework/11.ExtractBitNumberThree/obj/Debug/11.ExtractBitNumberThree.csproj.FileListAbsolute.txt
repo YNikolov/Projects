@@ -1,6 +1,0 @@
-c:\users\y\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe.config
-c:\users\y\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.exe
-c:\users\y\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\bin\Debug\11.ExtractBitNumberThree.pdb
-c:\users\y\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.exe
-c:\users\y\documents\visual studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\11.ExtractBitNumberThree\obj\Debug\11.ExtractBitNumberThree.csprojResolveAssemblyReference.cache

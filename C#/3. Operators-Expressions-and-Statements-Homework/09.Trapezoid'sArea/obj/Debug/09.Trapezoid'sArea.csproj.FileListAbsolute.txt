@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.Trapezoid'sArea\bin\Debug\09.Trapezoid'sArea.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.Trapezoid'sArea\bin\Debug\09.Trapezoid'sArea.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.Trapezoid'sArea\bin\Debug\09.Trapezoid'sArea.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.Trapezoid'sArea\obj\Debug\09.Trapezoid'sArea.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\09.Trapezoid'sArea\obj\Debug\09.Trapezoid'sArea.pdb

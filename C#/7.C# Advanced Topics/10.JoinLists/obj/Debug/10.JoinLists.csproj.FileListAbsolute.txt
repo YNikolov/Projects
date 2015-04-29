@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\bin\Debug\10.JoinLists.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\obj\Debug\10.JoinLists.csprojResolveAssemblyReference.cache
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\bin\Debug\10.JoinLists.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\bin\Debug\10.JoinLists.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\obj\Debug\10.JoinLists.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\10.JoinLists\obj\Debug\10.JoinLists.pdb

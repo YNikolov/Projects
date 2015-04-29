@@ -1,5 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Intro-Programming-Homework\PrintName\obj\Debug\PrintName.pdb
-C:\Users\Y\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.exe
-C:\Users\Y\documents\visual studio 2012\Projects\Intro-Programming-Homework\PrintName\bin\Debug\PrintName.pdb

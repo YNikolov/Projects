@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\bin\Debug\09.SumOfNNumbers.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\ConsoleInputOutputHomework\09.SumOfNNumbers\obj\Debug\09.SumOfNNumbers.csprojResolveAssemblyReference.cache

@@ -1,1 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\Loops\04.CalculateSum\bin\Debug\04.CalculateSum.exe.config

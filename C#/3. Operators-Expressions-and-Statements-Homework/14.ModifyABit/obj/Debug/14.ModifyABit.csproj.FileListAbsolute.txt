@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\bin\Debug\14.ModifyABit.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\03.OperatorsExpressionsAndStatements\14.ModifyABit\obj\Debug\14.ModifyABit.csprojResolveAssemblyReference.cache

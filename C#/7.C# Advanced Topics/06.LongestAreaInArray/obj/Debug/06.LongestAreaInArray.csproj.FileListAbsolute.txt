@@ -1,6 +1,0 @@
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe.config
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\bin\Debug\06.LongestAreaInArray.pdb
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.csprojResolveAssemblyReference.cache
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.exe
-C:\Users\Y\Documents\Visual Studio 2012\Projects\CSharpAdvanced\06.LongestAreaInArray\obj\Debug\06.LongestAreaInArray.pdb
