@@ -1,0 +1,6 @@
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\bin\MusicArtists.WebClient.dll.config
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\bin\MusicArtists.WebClient.dll
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\bin\MusicArtists.WebClient.pdb
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\obj\Debug\MusicArtists.WebClient.csprojResolveAssemblyReference.cache
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\obj\Debug\MusicArtists.WebClient.dll
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.WebClient\obj\Debug\MusicArtists.WebClient.pdb

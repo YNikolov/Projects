@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <title>MusicArtists</title>
+    <link rel="stylesheet" href="Styles/bootstrap.min.css" />
+    <link rel="stylesheet" href="Styles/app.css">
+</head>
+<body ng-app="musicArtistsApp" ng-controller="MainPageController">
+    <!--// TODO customise navbar
+            TODO adjust route links Artist,Artist-details, Albums --||--......
+            TODO remove unused service from all controllers (for example $rootScope etc....)-->
+
+    <div navigation-bar></div>
+    <div ng-view></div>
+
+    <footer class="panel-footer text-center navbar-fixed-bottom">
+        <h5> Author: {{author}}</h5>
+    </footer>
+
+
+    <script src="Scripts/lib/jquery-2.1.4.min.js"></script>
+    <script src="Scripts/lib/angular/angular.min.js"></script>    
+    <script src="Scripts/lib/angular/angular-route.min.js"></script>
+    <script src="Scripts/lib/angular/angular-resource.min.js"></script>
+    <script src="Scripts/lib/bootstrap.min.js"></script>
+    <script src="Scripts/app.js"></script>
+    <script src="Scripts/services/musicArtistsData.js"></script>
+    <script src="Scripts/controllers/MainPageController.js"></script>
+    <script src="Scripts/controllers/HomePageController.js"></script>
+    <script src="Scripts/controllers/AddArtistPageController.js"></script>
+    <script src="Scripts/controllers/ArtistsPageController.js"></script>
+    <script src="Scripts/controllers/ArtistDetailsController.js"></script>
+    <script src="Scripts/controllers/AlbumsPageController.js"></script>
+    <script src="Scripts/controllers/SongsPageController.js"></script>
+    <script src="Scripts/directives/navigationBarDirective.js"></script>
+</body>
+</html>

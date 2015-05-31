@@ -1,0 +1,10 @@
+﻿<div class="container" ng-controller="SongsPageController">
+    <div class="row">
+        <div class="col-md-4 text-center image-container" ng-repeat="song in songs">
+            <a href="#/Songs/{{ song.Name }}">
+                <h3>{{ song.Name }}</h3>
+                <img src="" ng-src="{{ song.ImageUrl }}">
+            </a>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,12 @@
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.csprojResolveAssemblyReference.cache
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll.config
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.pdb
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Model.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Model.pdb
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.xml
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb

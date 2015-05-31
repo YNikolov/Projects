@@ -1,0 +1,5 @@
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Model\bin\Debug\MusicArtists.Model.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Model\bin\Debug\MusicArtists.Model.pdb
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Model\obj\Debug\MusicArtists.Model.dll
+c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Model\obj\Debug\MusicArtists.Model.pdb
+C:\Users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Model\obj\Debug\MusicArtists.Model.csprojResolveAssemblyReference.cache

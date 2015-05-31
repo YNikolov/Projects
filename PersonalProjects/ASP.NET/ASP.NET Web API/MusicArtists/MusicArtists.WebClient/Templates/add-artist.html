@@ -1,0 +1,29 @@
+<div class="container" ng-controller="AddArtistPageController">
+<div class="row">
+    <div class="col-md-2">
+        <!--<label for="">Name</label>-->
+        <div class="form-group">
+            <label for="name">Name:</label>
+            <input type="text" class="form-control" id="name" ng-model="artistName">
+        </div>
+        <div class="form-group">
+            <label for="country">Country:</label>
+            <input type="text" class="form-control" id="country" ng-model="artistCountry">
+        </div>
+        <div class="form-group">
+            <label for="imageUrl">ImageUrl:</label>
+            <input type="url" class="form-control" id="imageUrl" ng-model="artistImageUrl"">
+        </div>
+        <!--<p><input type="text" placeholder="Name" ng-model="artistName" ></p>-->
+        <!--&lt;!&ndash;<label>Country</label>&ndash;&gt;-->
+        <!--<p><input type="text" placeholder="Country" ng-model="artistCountry"></p>-->
+        <!--<p><input type="url" placeholder="ImageUrl" ng-model="artistImageUrl"></p>-->
+        <p><button class="btn btn-default" type="button" ng-click="createArtist()">Create</button></p>
+    </div>
+    <div class="col-lg-5">
+        <span>{{ artist.Name }}</span>
+        <span>{{ artist.Country }}</span>
+        <img src="" ng-src="{{ artist.ImageUrl }}" alt="{{ artist.Name }}">
+    </div>
+</div>
+</div>

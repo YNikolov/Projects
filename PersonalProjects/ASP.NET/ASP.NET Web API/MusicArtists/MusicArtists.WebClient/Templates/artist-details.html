@@ -1,0 +1,22 @@
+﻿<div class="container" ng-controller="ArtistDetailsController">
+    <div class="container">
+
+        <div class="row">
+            <div class="col-md-4 pull-left">
+                <h1>{{ artists.Name }}</h1>
+                <h2>{{ artists.Country }}</h2>
+                <h3><strong>Albums:</strong></h3>
+                <ul>
+                    <li class="list-group-item" ng-repeat="album in albums">
+                        <a href="#/Albums/{{ album.Name }}"> {{ album.Name | uppercase}}</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="col-md-6 image-container  pull-right">
+                <a href="#/Artists/{{ artists.Name }}">
+                    <img src="" ng-src="{{ artists.ImageUrl }}" alt="{{ artists.Name }}" />
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
