@@ -43,11 +43,20 @@
         }
 
         [HttpPost]
-        public IHttpActionResult CreateSong(Song song)
+        public IHttpActionResult CreateSong([FromUri]Song song)
         {
             if (!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
+            }
+
+            var existingSong = this.data.Songs
+                .All()
+                .FirstOrDefault(s => s.Name == song.Name);
+
+            if (existingSong != null)
+            {
+                return BadRequest("The Song, already exist!");
             }
 
             this.data.Songs.Add(song);

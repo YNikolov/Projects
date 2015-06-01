@@ -41,10 +41,30 @@ namespace MusicArtists.Services.Controllers
             var albums = this.data.Albums
                 .All()
                 .Select(CoverModel.FromCover);
-
+             
             return Ok(albums);
         }
 
+        [HttpGet]
+        public IHttpActionResult ByAlbumsName([FromUri]string albName)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var album = this.data.Albums
+                .All()
+                .FirstOrDefault(a => a.Name == albName);
+
+            if (album == null)
+            {
+                return BadRequest("Such Album does not exist!");
+
+            }
+
+            return Ok(album);
+        }
         [HttpGet] // TODO
         public IHttpActionResult ArtistId([FromUri]int id)
         {                
@@ -82,7 +102,7 @@ namespace MusicArtists.Services.Controllers
             return Ok(albums);
         }
         [HttpPost]
-        public IHttpActionResult Create(AlbumModel album)
+        public IHttpActionResult Create([FromUri]AlbumModel album)
         {
             if (!ModelState.IsValid)
             {
@@ -91,7 +111,11 @@ namespace MusicArtists.Services.Controllers
 
             var newAlbum = new Album
             {                
-                Name = album.Name
+                Name = album.Name,
+                Genre = album.Genre,
+                ImageUrl = album.ImageUrl,
+                Producer = album.Producer,
+                ArtistId = album.ArtistId
             };
 
             this.data.Albums.Add(newAlbum);
@@ -193,6 +217,32 @@ namespace MusicArtists.Services.Controllers
             //this.data.SaveChanges();
             //newAlbum.Id = id;
             //newAlbum.Id = album.Id;
+
+            return Ok();
+        }
+        [HttpPost]
+        public IHttpActionResult AddSong(string albName, string songName)
+        {
+            if (!this.ModelState.IsValid)
+            {
+                return BadRequest(ModelState);
+            }
+
+            var album = this.data.Albums
+                .All()
+                .FirstOrDefault(a => a.Name == albName);
+
+            this.CheckIfExist(album, "Album");
+
+            var song = this.data.Songs
+                .All()
+                .FirstOrDefault(s => s.Name == songName);
+
+            this.CheckIfExist(song, "Song");
+
+            album.Songs.Add(song);
+
+            this.data.SaveChanges();
 
             return Ok();
         }
@@ -324,5 +374,16 @@ namespace MusicArtists.Services.Controllers
 
         //    return Ok();
         //}
+        private void CheckIfExist(object obj, string objectName)
+        {
+            if (obj == null)
+            {
+                throw new HttpResponseException(new HttpResponseMessage(HttpStatusCode.BadRequest)
+                {
+                    ReasonPhrase = "Such " + objectName + " does not exist!"
+                });
+            }
+
+        }
     }
 }

@@ -19,8 +19,14 @@ var musicArtistsApp = angular.module('musicArtistsApp', ['ngResource', 'ngRoute'
             .when('/Albums',{
                 templateUrl: 'Templates/albums.html'
             })
+            .when('/Add-Album',{
+                templateUrl: 'Templates/add-album.html'
+            })
             .when('/Songs', {
                 templateUrl: 'Templates/songs.html'
+            })
+            .when('/Add-Song',{
+                templateUrl: 'Templates/add-song.html'
             })
             .otherwise({redirectTo: '/'});
     });

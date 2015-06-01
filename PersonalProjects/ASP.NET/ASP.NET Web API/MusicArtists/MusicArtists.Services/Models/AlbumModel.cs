@@ -22,7 +22,7 @@
                     Genre = al.Genre,
                     Producer = al.Producer,                    
                     ImageUrl = al.ImageUrl,
-                    ArtistId = al.ArtistId
+                    ArtistId = al.ArtistId,                    
                 };
             }
         }
@@ -32,7 +32,6 @@
         public string Genre { get; set; }
         public string ImageUrl { get; set; }
         public string Producer { get; set; }
-        public int? ArtistId { get; set; }
-        
+        public int? ArtistId { get; set; }      
     }
 }

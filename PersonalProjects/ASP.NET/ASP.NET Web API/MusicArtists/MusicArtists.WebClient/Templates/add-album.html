@@ -1,10 +1,32 @@
-<!DOCTYPE html>
-<html>
-<head lang="en">
-    <meta charset="UTF-8">
-    <title></title>
-</head>
-<body>
+<div class="container" ng-controller="AddAlbumPageController">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <div>
+                    <label for="name">Name:</label>
+                    <input class="form-control" type="text" id="name" ng-model="albumName" >
+                </div>
+                <div>
+                    <label for="genre">Genre:</label>
+                    <input class="form-control" type="text" id="genre" ng-model="albumGenre" >
+                </div>
+                <div>
+                    <label for="producer">Producer:</label>
+                    <input class="form-control" type="text" id="producer" ng-model="albumProducer" >
+                </div>
+                <div>
+                    <label for="image">ImageUrl:</label>
+                    <input class="form-control" type="text" id="image" ng-model="albumImageUrl" >
+                </div>
+                <div>
+                    <label for="artist">Artist:</label>
+                    <input class="form-control" type="text" id="artist" ng-model="albumsArtist" >
+                </div>
+                <p>
+                    <button class="btn btn-default" type="button" ng-click="createAlbum()">Create</button>
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
 
-</body>
-</html>

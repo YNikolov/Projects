@@ -63,7 +63,7 @@ namespace MusicArtists.Services.Controllers
                 .Select(ArtistModel.FromArtist)
                 .FirstOrDefault();
             
-            this.CheckIfExist(artist);
+            this.CheckIfExist(artist, "Artist");
 
             return Ok(artist);
         }
@@ -82,7 +82,7 @@ namespace MusicArtists.Services.Controllers
                 .Select(ArtistModel.FromArtist)
                 .FirstOrDefault();
             
-            this.CheckIfExist(artist);
+            this.CheckIfExist(artist, "Artist");
 
             return Ok(artist);
         }
@@ -95,38 +95,54 @@ namespace MusicArtists.Services.Controllers
                 return BadRequest(ModelState);
             }          
 
+            var newArtist = this.data.Artists
+                .All()
+                .FirstOrDefault(a => a.Name == artist.Name);
+            if (newArtist != null)
+            {
+                return BadRequest("Such Artist already exist!");
+            }
+            
             this.data.Artists.Add(artist);
             this.data.SaveChanges();
 
             return Ok(artist);
         }
 
-        [HttpPost]
-        public IHttpActionResult AddAlbum(int id, int albumId)
+        [HttpPost]    //TODO  check for existing album in artist before adding
+        public IHttpActionResult AddAlbum(string artist, string album)
         {
             if (!this.ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
-            //var artist = this.data.Artists
-            //        .All()
-            //        .FirstOrDefault(a => a.Id == id);
-            
-            //this.CheckIfExist(artist);
+            var existingArtist = this.data.Artists
+                    .All()
+                    .FirstOrDefault(a => a.Name == artist);
 
-            var album = this.data.Albums
+            this.CheckIfExist(existingArtist, "Artist");
+            //var albumInArtist = existingArtist.Albums.Contains
+                
+            //if ()
+            //{
+                
+            //}
+
+            var existingAlbum = this.data.Albums
                 .All()
-                .FirstOrDefault(al => al.Id == albumId);
+                .FirstOrDefault(a => a.Name == album);
 
-            this.CheckIfExist(album);
+            this.CheckIfExist(existingAlbum, "Album");
 
-            album.ArtistId = id;
+
+            existingArtist.Albums.Add(existingAlbum);
 
             this.data.SaveChanges();
 
             return Ok();
         }
+
         [HttpDelete]
         public IHttpActionResult DeleteById(int id)
         {
@@ -139,7 +155,7 @@ namespace MusicArtists.Services.Controllers
                 .All()
                 .FirstOrDefault(a => a.Id == id);
             
-            this.CheckIfExist(artist);
+            this.CheckIfExist(artist, "Artist");
             //var artistAlbums = this.data.Albums.All().Where(a => a.ArtistId == id);
             //var albumId = this.data.Albums.All().Where()
             //var albumSongs = this.data.Songs.All().Where(artistAlbums.Contains(); 
@@ -214,16 +230,28 @@ namespace MusicArtists.Services.Controllers
             
             return Ok(newArtist);
         }
-        private void CheckIfExist(object obj)
+
+        private void CheckIfExist(object obj, string objectName)
         {
             if (obj == null)
             {
                 throw new HttpResponseException(new HttpResponseMessage(HttpStatusCode.BadRequest)
-               {
-                   ReasonPhrase = "Such Artist does not exist!"
-               });
+                {
+                    ReasonPhrase = "Such " + objectName + " does not exist!"
+                });
             }
 
         }
+        //private void CheckIfExist(object obj)
+        //{
+        //    if (obj == null)
+        //    {
+        //        throw new HttpResponseException(new HttpResponseMessage(HttpStatusCode.BadRequest)
+        //       {
+        //           ReasonPhrase = "Such Artist does not exist!"
+        //       });
+        //    }
+
+        //}
     }
 }

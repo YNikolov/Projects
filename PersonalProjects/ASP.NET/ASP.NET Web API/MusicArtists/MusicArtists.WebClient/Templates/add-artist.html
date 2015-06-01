@@ -1,6 +1,6 @@
 <div class="container" ng-controller="AddArtistPageController">
 <div class="row">
-    <div class="col-md-2">
+    <div class="col-md-3">
         <!--<label for="">Name</label>-->
         <div class="form-group">
             <label for="name">Name:</label>
@@ -12,7 +12,7 @@
         </div>
         <div class="form-group">
             <label for="imageUrl">ImageUrl:</label>
-            <input type="url" class="form-control" id="imageUrl" ng-model="artistImageUrl"">
+            <input type="url" class="form-control" id="imageUrl" ng-model="artistImageUrl">
         </div>
         <!--<p><input type="text" placeholder="Name" ng-model="artistName" ></p>-->
         <!--&lt;!&ndash;<label>Country</label>&ndash;&gt;-->
@@ -21,8 +21,8 @@
         <p><button class="btn btn-default" type="button" ng-click="createArtist()">Create</button></p>
     </div>
     <div class="col-lg-5">
-        <span>{{ artist.Name }}</span>
-        <span>{{ artist.Country }}</span>
+        <div>{{ artist.Name }}</div>
+        <div>{{ artist.Country }}</div>
         <img src="" ng-src="{{ artist.ImageUrl }}" alt="{{ artist.Name }}">
     </div>
 </div>

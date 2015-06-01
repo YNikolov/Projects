@@ -1,0 +1,37 @@
+<div class="container" ng-controller="AddSongPageController">
+    <div class="row">
+        <div class="col-md-3">
+            <div class="form-group">
+                <label for="name">Name:</label>
+                <input class="form-control" type="text" id="name" ng-model="songName">
+            </div>
+            <div class="form-group">
+                <label for="genre">Genre:</label>
+                <input class="form-control" type="text" id="genre" ng-model="songGenre">
+            </div>
+            <div class="form-group">
+                <label for="image">ImageUrl:</label>
+                <input class="form-control" type="url" id="image" ng-model="songImageUrl">
+            </div>
+            <div class="form-group">
+                <label for="album">Album:</label>
+                <input class="form-control" type="text" id="album" ng-model="songsAlbum">
+            </div>
+            <p>
+                <button class="btn btn-default" type="button" ng-click="createSong()">Create</button>
+            </p>
+        </div>
+        <div class="col-md-7">
+            <div>{{ song.Name }}</div>
+            <div>{{ song.Genre }}</div>
+            <div>{{ song.Producer }}</div>
+            <div>{{ song.album.Name }}</div>
+            <div>
+                <img src="" ng-src="{{ song.ImageUrl }}" />
+            </div>
+        </div>
+    </div>
+
+</div>
+
+
