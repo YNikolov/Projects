@@ -2,4 +2,4 @@
   1. MusicArtists.Services - must be started at first - seed data in the database + consuming Web API Services
   2. MusicArtists.WebClient - Web API Services consumer
  
-__Change the Connection string -> RockBands.Common -> ConnectionStrings.cs__ 
+__Change the Connection string -> MusicArtists.ConnectionString -> ConnectionStrings.cs__ 
