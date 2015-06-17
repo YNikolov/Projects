@@ -1,0 +1,5 @@
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.ConnectionString\bin\Debug\MusicArtists.ConnectionString.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.ConnectionString\bin\Debug\MusicArtists.ConnectionString.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.ConnectionString\obj\Debug\MusicArtists.ConnectionString.csprojResolveAssemblyReference.cache
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.ConnectionString\obj\Debug\MusicArtists.ConnectionString.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.ConnectionString\obj\Debug\MusicArtists.ConnectionString.pdb
