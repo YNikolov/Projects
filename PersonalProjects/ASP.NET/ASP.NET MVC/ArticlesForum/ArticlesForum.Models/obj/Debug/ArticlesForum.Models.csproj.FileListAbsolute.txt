@@ -1,0 +1,14 @@
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.dll.config
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.csprojResolveAssemblyReference.cache
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.pdb

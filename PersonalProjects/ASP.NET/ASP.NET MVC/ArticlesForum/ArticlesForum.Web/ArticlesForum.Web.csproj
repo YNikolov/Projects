@@ -180,7 +180,6 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\AccountViewModels.cs" />
-    <Compile Include="Models\IdentityModels.cs" />
     <Compile Include="Models\ManageViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Startup.cs" />
@@ -260,6 +259,16 @@
   <ItemGroup>
     <Content Include="packages.config" />
     <None Include="Project_Readme.html" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ArticlesForum.Data\ArticlesForum.Data.csproj">
+      <Project>{8a7c6836-f592-4dbd-8e53-71f67688ba13}</Project>
+      <Name>ArticlesForum.Data</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ArticlesForum.Models\ArticlesForum.Models.csproj">
+      <Project>{dd424fe9-aa2c-4e74-aca7-6defa90e3b23}</Project>
+      <Name>ArticlesForum.Models</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

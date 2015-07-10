@@ -6,6 +6,8 @@ using Microsoft.Owin.Security.Cookies;
 using Microsoft.Owin.Security.Google;
 using Owin;
 using ArticlesForum.Web.Models;
+using ArticlesForum.Data;
+using ArticlesForum.Models;
 
 namespace ArticlesForum.Web
 {
