@@ -3,16 +3,16 @@
     using Microsoft.AspNet.Identity.EntityFramework;
     using ArticlesForum.Models;
 
-    public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
+    public class ArticlesForumDbContext : IdentityDbContext<User>
     {
-        public ApplicationDbContext()
+        public ArticlesForumDbContext()
             : base("DefaultConnection", throwIfV1Schema: false)
         {
         }
 
-        public static ApplicationDbContext Create()
+        public static ArticlesForumDbContext Create()
         {
-            return new ApplicationDbContext();
+            return new ArticlesForumDbContext();
         }
     }
 
