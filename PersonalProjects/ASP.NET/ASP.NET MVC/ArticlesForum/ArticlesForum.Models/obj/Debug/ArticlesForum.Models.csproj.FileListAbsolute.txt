@@ -9,6 +9,6 @@ C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\Articles
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
-C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.csprojResolveAssemblyReference.cache
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.dll
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.csprojResolveAssemblyReference.cache

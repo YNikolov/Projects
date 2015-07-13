@@ -57,3 +57,12 @@ C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\Articles
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\ArticlesForum.Models.dll
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\ArticlesForum.Data.pdb
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\ArticlesForum.Models.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.Web.Common.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\WebActivatorEx.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.Web.Common.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\ArticlesForum.Common.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Web\bin\ArticlesForum.Common.pdb

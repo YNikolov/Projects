@@ -14,3 +14,5 @@ C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\Articles
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Data\obj\Debug\ArticlesForum.Data.csprojResolveAssemblyReference.cache
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Data\obj\Debug\ArticlesForum.Data.dll
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Data\obj\Debug\ArticlesForum.Data.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Data\bin\Debug\ArticlesForum.Common.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Data\bin\Debug\ArticlesForum.Common.pdb

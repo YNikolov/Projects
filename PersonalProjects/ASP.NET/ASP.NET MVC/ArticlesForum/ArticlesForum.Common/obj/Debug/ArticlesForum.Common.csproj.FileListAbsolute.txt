@@ -1,0 +1,5 @@
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\bin\Debug\ArticlesForum.Common.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\bin\Debug\ArticlesForum.Common.pdb
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.csprojResolveAssemblyReference.cache
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.dll
+C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.pdb
