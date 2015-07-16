@@ -71,6 +71,10 @@ namespace ArticlesForum.Data.Migrations
 
         private void SeedCategoriesWithArticlesWithComments(ArticlesForumDbContext context)
         {
+            if (context.Categories.Any())
+            {
+                return;
+            }
             var users = context.Users.Take(6).ToList();
 
             for (int i = 0; i < 5; i++)
@@ -107,11 +111,7 @@ namespace ArticlesForum.Data.Migrations
                     category.Articles.Add(article);
                 }
                 context.Categories.Add(category);
-            }
-            
-            //var categories = context.Categories.Take(5).ToList();
-            
-
+            }    
             context.SaveChanges();
         }
 
