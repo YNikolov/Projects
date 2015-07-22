@@ -11,6 +11,8 @@ namespace ArticlesForum.Data.Migrations
     using ArticlesForum.Common;
     using ArticlesForum.Data;
     using ArticlesForum.Models;
+    using System.Reflection;
+    using System.IO;
 
     public sealed class Configuration : DbMigrationsConfiguration<ArticlesForumDbContext>
     {
@@ -75,6 +77,8 @@ namespace ArticlesForum.Data.Migrations
             {
                 return;
             }
+
+            var image = this.GetImage();
             var users = context.Users.Take(6).ToList();
 
             for (int i = 0; i < 5; i++)
@@ -90,30 +94,41 @@ namespace ArticlesForum.Data.Migrations
                     var article = new Article()
                     {
                         Author = users[this.random.RandomNumber(0, users.Count - 1)],
-                        ImageUrl = "http://www.google.bg/imgres?imgurl=http://www.freearticlemarketing.co.uk/wp-content/uploads/2012/01/Free-Marketing-387x250.jpg&imgrefurl=http://www.freearticlemarketing.co.uk/tag/affiliate&h=250&w=387&tbnid=okFO4wiq9FARWM:&zoom=1&docid=81y_B-65M1OQsM&ei=Re6jVam5FYWosgGjgZ-IAg&tbm=isch&ved=0CB0QMygAMABqFQoTCOnv5pPK2MYCFQWULAodo8AHIQ",
-                        //Category = categories[this.random.RandomNumber(0, categories.Count - 1)],
+                        Image = image,
                         Title = this.random.RandomString(5, 30),
                         Content = this.random.RandomString(100, 400)
                     };
-
-                    //var articles = context.Articles.ToList();
 
                     for (int c = 0; c < 5; c++)
                     {
                         var comment = new Comment()
                         {
-                            //Article = articles[this.random.RandomNumber(0, articles.Count - 1)],
                             Author = users[this.random.RandomNumber(0, users.Count - 1)],
                             Content = this.random.RandomString(100, 200)                    
                         };
+
                         article.Comments.Add(comment);
                     }
+
                     category.Articles.Add(article);
                 }
+
                 context.Categories.Add(category);
+                context.SaveChanges();
             }    
-            context.SaveChanges();
         }
 
+        private Image GetImage()
+        {
+            var directory = DirectoryGetter.GetDirectoryForAssembly(Assembly.GetExecutingAssembly());
+            var file = File.ReadAllBytes(directory + "/Migrations/Img/news.jpg");
+            var image = new Image
+            {
+                Content = file,
+                FileExtension = "jpg"
+            };
+
+            return image;
+        }
     }
 }

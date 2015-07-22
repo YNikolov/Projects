@@ -15,6 +15,8 @@
         IRepository<Article> Articles { get; }
 
         IRepository<User> Users { get; }
+        
+        IRepository<Image> Images { get; }
 
         void Dispose();
 

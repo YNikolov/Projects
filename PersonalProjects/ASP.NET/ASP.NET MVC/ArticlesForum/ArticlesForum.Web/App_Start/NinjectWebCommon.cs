@@ -11,6 +11,8 @@ namespace ArticlesForum.Web.App_Start
     using Ninject;
     using Ninject.Web.Common;
     using ArticlesForum.Data;
+    using ArticlesForum.Web.Infrastructure.Services;
+    using System.Data.Entity;
 
     public static class NinjectWebCommon 
     {
@@ -62,7 +64,9 @@ namespace ArticlesForum.Web.App_Start
         /// <param name="kernel">The kernel.</param>
         private static void RegisterServices(IKernel kernel)
         {
+            kernel.Bind<DbContext>().To<ArticlesForumDbContext>();
             kernel.Bind<IArticlesForumData>().To<ArticlesForumData>();
+            kernel.Bind<IHomeServices>().To<HomeServices>();
         }        
     }
 }

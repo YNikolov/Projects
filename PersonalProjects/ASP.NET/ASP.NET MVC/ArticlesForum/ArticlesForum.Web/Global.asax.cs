@@ -17,6 +17,7 @@ namespace ArticlesForum.Web
         protected void Application_Start()
         {
             Database.SetInitializer(new MigrateDatabaseToLatestVersion<ArticlesForumDbContext, Configuration>());
+            AutoMapperConfig.Execute();
 
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);

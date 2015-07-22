@@ -49,6 +49,13 @@
             }
         }
 
+        public IRepository<Image> Images
+        {
+            get { 
+                return this.GetRepository<Image>();
+            }
+        }
+
         public DbContext Context
         {
             get
@@ -56,14 +63,7 @@
                 return this.context;
             }
         }
-
-        /// <summary>
-        /// Saves all changes made in this context to the underlying database.
-        /// </summary>
-        /// <returns>
-        /// The number of objects written to the underlying database.
-        /// </returns>
-        /// <exception cref="T:System.InvalidOperationException">Thrown if the context has been disposed.</exception>
+        
         public int SaveChanges()
         {
             return this.context.SaveChanges();
@@ -95,6 +95,6 @@
             }
 
             return (IRepository<T>)this.repositories[typeof(T)];
-        }
+        }        
     }
 }

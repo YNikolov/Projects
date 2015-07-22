@@ -28,9 +28,11 @@ namespace ArticlesForum.Models
 
         public virtual Category Category { get; set; }
 
-        public string ImageUrl { get; set; }
+        public int? ImageId { get; set; }
 
-        public ICollection<Comment> Comments
+        public virtual Image Image { get; set; }
+
+        public virtual ICollection<Comment> Comments
         {
             get
             {

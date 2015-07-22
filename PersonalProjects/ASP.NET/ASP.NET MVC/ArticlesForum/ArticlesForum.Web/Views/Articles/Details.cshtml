@@ -1,0 +1,37 @@
+﻿@model ArticlesForum.Web.Models.Articles.ArticleDetailsViewModel
+@{
+    ViewBag.Title = Model.Title;
+}
+
+<h2>@Model.Title</h2>
+
+<div class="row">
+    <div class="col-md-3">
+        <h4><strong>Category: </strong>@Model.CategoryName</h4>
+    </div>
+    <div class="col-md-3">
+        <h4><strong>Author: </strong>@Model.AuthorName</h4>
+    </div>
+</div>
+<div class="jumbotron">
+    <div class="row">
+        <div class="col-md-3">
+            @if (Model.ImageId != null)
+            {
+                <img src="@Url.Action("Image", "Articles", new { id = Model.ImageId.Value })" alt="@Model.Title" class="img-responsive" />
+            }
+        </div>
+        <div class="col-md-9" style="word-break:break-all">@Model.Content</div>
+    </div>
+</div>
+
+<h4><strong>Comments:</strong></h4>
+
+@foreach (var com in Model.Comments)
+{
+    <div class="row" style="word-break: break-all">
+        <strong>@com.Author: </strong> @com.Content
+    </div>
+    <br />
+}
+
