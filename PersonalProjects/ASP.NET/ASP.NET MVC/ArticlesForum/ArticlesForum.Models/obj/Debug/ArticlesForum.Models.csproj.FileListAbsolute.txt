@@ -12,3 +12,17 @@ C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\Articles
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.dll
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.pdb
 C:\Users\xeruvim\Projects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.csprojResolveAssemblyReference.cache
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.dll.config
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\ArticlesForum.Models.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.csprojResolveAssemblyReference.cache
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Models\obj\Debug\ArticlesForum.Models.pdb

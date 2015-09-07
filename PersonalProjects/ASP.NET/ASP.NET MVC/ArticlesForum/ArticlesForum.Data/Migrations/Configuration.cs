@@ -119,9 +119,9 @@ namespace ArticlesForum.Data.Migrations
         }
 
         private Image GetImage()
-        {
-            var directory = DirectoryGetter.GetDirectoryForAssembly(Assembly.GetExecutingAssembly());
-            var file = File.ReadAllBytes(directory + "/Migrations/Img/news.jpg");
+        {           //TODO Fix directory path error System.IO.DirectoryNotFoundException....
+            var directory = DirectoryGetter.GetDirectoryForAssembly(Assembly.GetExecutingAssembly()); //"D:/MyProjects/Projects/PersonalProjects/ASP.NET/ASP.NET MVC/ArticlesForum/ArticlesForum.Data";
+            var file = File.ReadAllBytes(directory + "/Migrations/Img/news.jpg");                         //(directory + "/Migrations/Img/news.jpg");("~/Migrations/Img/news.jpg");
             var image = new Image
             {
                 Content = file,

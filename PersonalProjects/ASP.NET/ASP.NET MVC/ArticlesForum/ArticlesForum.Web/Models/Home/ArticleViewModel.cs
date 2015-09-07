@@ -22,6 +22,7 @@
         public int NumbersOfComments { get; set; }
 
         public string ImageUrl { get; set; }
+
         public void CreateMappings(IConfiguration configuration)
         {
             configuration.CreateMap<Article, ArticleViewModel>()
