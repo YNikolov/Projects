@@ -6,3 +6,4 @@ D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\Articl
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\bin\Debug\ArticlesForum.Common.pdb
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.dll
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\ArticlesForum\ArticlesForum.Common\obj\Debug\ArticlesForum.Common.csprojResolveAssemblyReference.cache

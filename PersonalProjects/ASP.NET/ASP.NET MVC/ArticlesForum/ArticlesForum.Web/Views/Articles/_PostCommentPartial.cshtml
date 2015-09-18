@@ -1,0 +1,15 @@
+﻿@model ArticlesForum.Web.Models.Comments.PostCommentModel
+@using (Ajax.BeginForm("PostComment", "Comments", new AjaxOptions
+{
+    HttpMethod = "POST",
+    InsertionMode = InsertionMode.InsertBefore,
+    UpdateTargetId = "comments"
+}))
+{
+    @Html.AntiForgeryToken()
+    
+    @Html.HiddenFor(m => m.ArticleId)
+    @Html.EditorFor(m => m.Content)
+    
+    <input type="submit" class="btn btn-default" />
+}

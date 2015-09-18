@@ -1,4 +1,6 @@
-﻿@model ArticlesForum.Web.Models.Articles.ArticleDetailsViewModel
+﻿@using ArticlesForum.Web.Models.Articles
+@using ArticlesForum.Web.Models.Comments
+@model ArticleDetailsViewModel
 @{
     ViewBag.Title = Model.Title;
 }
@@ -25,13 +27,21 @@
     </div>
 </div>
 
-<h4><strong>Comments:</strong></h4>
-
-@foreach (var com in Model.Comments)
+@if(User.Identity.IsAuthenticated)
 {
-    <div class="row" style="word-break: break-all">
-        <strong>@com.Author: </strong> @com.Content
-    </div>
-    <br />
+   @Html.Partial("_PostCommentPartial", new PostCommentModel(Model.Id))
 }
 
+<h4><strong>Comments:</strong></h4>
+
+<div id="comments">
+    @foreach (var comment in Model.Comments)
+    {
+        @Html.Partial("_CommentPartial", comment)
+    }
+</div>
+
+@section scripts {
+    @Scripts.Render("~/bundles/jqueryajax")
+    @Scripts.Render("~/bundles/jqueryval")
+}

@@ -8,10 +8,14 @@
     using AutoMapper;
     using AutoMapper.QueryableExtensions;
 
+    using Kendo.Mvc.UI;
+    using Kendo.Mvc.Extensions;
+
     using ArticlesForum.Data;
     using ArticlesForum.Models;
     using ArticlesForum.Web.Models.Articles;
     using ArticlesForum.Web.Models.Comments;
+
 
     public class ArticlesController : BaseController
     {
@@ -19,6 +23,23 @@
             : base(data)
         { }
              
+        [Authorize]
+        public ActionResult All()
+        {
+            return View();
+        }
+
+        [Authorize]
+        [HttpPost]
+        public ActionResult ReadArticles([DataSourceRequest]DataSourceRequest request)
+        {
+            var articles = this.Data.Articles
+                .All()
+                .Project()
+                .To<ListArticleModel>();
+
+            return Json(articles.ToDataSourceResult(request));
+        }
         public ActionResult Add()
         {
             var addArticleViewModel = new AddArticleViewModel

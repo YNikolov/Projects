@@ -1,6 +1,4 @@
-﻿
-
-namespace ArticlesForum.Web.Models.Comments
+﻿namespace ArticlesForum.Web.Models.Comments
 {
     using System.Web;
 
