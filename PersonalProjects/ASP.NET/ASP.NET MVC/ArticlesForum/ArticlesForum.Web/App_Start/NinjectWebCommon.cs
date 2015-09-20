@@ -14,6 +14,8 @@ namespace ArticlesForum.Web.App_Start
     using System.Data.Entity;
     using ArticlesForum.Web.Infrastructure.Services.Contracts;
     using ArticlesForum.Web.Infrastructure.Services;
+    using ArticlesForum.Web.Infrastructure.Caching;
+    using ArticlesForum.Web.Infrastructure.Populators;
 
     public static class NinjectWebCommon 
     {
@@ -68,10 +70,10 @@ namespace ArticlesForum.Web.App_Start
             kernel.Bind<DbContext>().To<ArticlesForumDbContext>();
             kernel.Bind<IArticlesForumData>().To<ArticlesForumData>();
 
-           // kernel.Bind<ICacheService>().To<InMemoryCache>();
+            kernel.Bind<ICacheService>().To<InMemoryCache>();
 
             kernel.Bind<IHomeServices>().To<HomeServices>();
-            //kernel.Bind<IDropDownListPopulator>().To<DropDownListPopulator>();
+            kernel.Bind<IDropDownListPopulator>().To<DropDownListPopulator>();
         }        
     }
 }

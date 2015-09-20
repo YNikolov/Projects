@@ -28,8 +28,20 @@
                     @if (User.Identity.IsAuthenticated)
                     {
                         <li>@Html.ActionLink("Add Article", "Add", "Articles")</li>
-                        <li>@Html.ActionLink("View All", "All", "Articles")</li>                        
-                    }
+                        <li>@Html.ActionLink("View All", "All", "Articles")</li>
+
+                        if (User.IsInRole(GlobalConstants.AdminRole))
+                        {
+                            <li>
+                                Administration
+
+                                <ul>
+                                    <li>@Html.ActionLink("Comments", "Index", "Comments", new { area = "Administration" })</li>
+                                    <li>@Html.ActionLink("Categories", "Index", "Categories", new { area = "Administration" })</li>
+                                </ul>
+                            </li>
+                        }
+                    }                    
                 </ul>
                 @Html.Partial("_LoginPartial")
             </div>

@@ -199,6 +199,9 @@
     <Compile Include="App_Start\NinjectWebCommon.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
     <Compile Include="App_Start\Startup.Auth.cs" />
+    <Compile Include="Areas\Administration\AdministrationAreaRegistration.cs" />
+    <Compile Include="Areas\Administration\Controllers\AdminController.cs" />
+    <Compile Include="Areas\Administration\Controllers\CommentsController.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\ArticlesController.cs" />
     <Compile Include="Controllers\BaseController.cs" />
@@ -208,8 +211,12 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\Caching\ICacheService.cs" />
+    <Compile Include="Infrastructure\Caching\InMemoryCache.cs" />
     <Compile Include="Infrastructure\Mapping\IHaveCustomMappings.cs" />
     <Compile Include="Infrastructure\Mapping\IMapFrom.cs" />
+    <Compile Include="Infrastructure\Populators\DropDownListPopulator.cs" />
+    <Compile Include="Infrastructure\Populators\IDropDownListPopulator.cs" />
     <Compile Include="Infrastructure\Services\ArticlesServices.cs" />
     <Compile Include="Infrastructure\Services\BaseServices.cs" />
     <Compile Include="Infrastructure\Services\Contracts\IArticlesServices.cs" />
@@ -459,6 +466,14 @@
     <Content Include="Scripts\jquery-2.1.4.min.map" />
     <Content Include="Scripts\jquery.min.js" />
     <Content Include="Scripts\jquery.min.map" />
+    <Content Include="Areas\Administration\Views\web.config" />
+    <Content Include="Areas\Administration\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\Administration\Views\Shared\_Layout.cshtml" />
+    <Content Include="Areas\Administration\Views\Comments\Create.cshtml" />
+    <Content Include="Areas\Administration\Views\Comments\Delete.cshtml" />
+    <Content Include="Areas\Administration\Views\Comments\Details.cshtml" />
+    <Content Include="Areas\Administration\Views\Comments\Edit.cshtml" />
+    <Content Include="Areas\Administration\Views\Comments\Index.cshtml" />
     <None Include="Scripts\jquery.validate-vsdoc.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.js" />
     <Content Include="Scripts\jquery.unobtrusive-ajax.min.js" />
@@ -1091,6 +1106,8 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Areas\Administration\Models\" />
+    <Folder Include="Areas\Administration\Views\Admin\" />
     <Folder Include="Content\kendo\Fiori\" />
     <Folder Include="Content\kendo\fonts\" />
     <Folder Include="Content\kendo\MaterialBlack\" />
@@ -1152,6 +1169,10 @@
     <Content Include="Scripts\kendo\kendo.web.min.js.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ArticlesForum.Common\ArticlesForum.Common.csproj">
+      <Project>{785c6e6e-c435-4949-9a96-8734a729b0d4}</Project>
+      <Name>ArticlesForum.Common</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ArticlesForum.Data\ArticlesForum.Data.csproj">
       <Project>{8a7c6836-f592-4dbd-8e53-71f67688ba13}</Project>
       <Name>ArticlesForum.Data</Name>
