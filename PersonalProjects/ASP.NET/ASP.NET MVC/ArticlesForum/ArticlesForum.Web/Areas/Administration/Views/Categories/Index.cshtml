@@ -1,0 +1,9 @@
+﻿@using ArticlesForum.Web.Areas.Administration.Models.Categories;
+@{
+    const string ControllerName = "Categories";
+    ViewBag.Title = ControllerName;
+}
+
+<h2>@ViewBag.Title</h2>
+@(Html.FullFeaturedGrid<CategoryModel>(ControllerName, m => m.Id))
+

@@ -17,7 +17,7 @@
         [Required]
         public string Name { get; set; }
 
-        public ICollection<Article> Articles
+        public virtual ICollection<Article> Articles
         {
             get 
             {
