@@ -1,0 +1,13 @@
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\LaptopListingSystem.Models.dll.config
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\LaptopListingSystem.Models.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\LaptopListingSystem.Models.pdb
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\EntityFramework.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\EntityFramework.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\obj\Debug\LaptopListingSystem.Models.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Models\obj\Debug\LaptopListingSystem.Models.pdb

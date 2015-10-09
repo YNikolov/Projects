@@ -1,0 +1,16 @@
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.pdb
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.pdb
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.dll.config
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Models.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Models.pdb
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.csprojResolveAssemblyReference.cache
