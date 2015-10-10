@@ -24,3 +24,4 @@ D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Models\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Models\obj\Debug\LaptopListingSystem.Models.dll
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Models\obj\Debug\LaptopListingSystem.Models.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Models\obj\Debug\LaptopListingSystem.Models.csprojResolveAssemblyReference.cache

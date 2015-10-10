@@ -116,3 +116,10 @@ D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\obj\Debug\LaptopListingSystem.Web.csprojResolveAssemblyReference.cache
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\obj\Debug\LaptopListingSystem.Web.dll
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\obj\Debug\LaptopListingSystem.Web.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Common.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Mvc.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\WebActivatorEx.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Common.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Mvc.xml
