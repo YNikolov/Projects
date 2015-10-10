@@ -13,12 +13,12 @@
         {
         }
 
-        public virtual IDbSet<User> Users { get; set; }
-
         public virtual IDbSet<Manufacturer> Manufacturers { get; set; }
 
         public virtual IDbSet<Laptop> Laptops { get; set; }
+
         public virtual IDbSet<Comment> Comments { get; set; }
+        
         public virtual IDbSet<Vote> Votes { get; set; }
 
         public static LaptopListingSystemDbContext Create()

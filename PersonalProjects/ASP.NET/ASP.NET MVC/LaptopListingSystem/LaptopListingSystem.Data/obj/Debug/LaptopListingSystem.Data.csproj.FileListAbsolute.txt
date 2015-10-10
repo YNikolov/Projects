@@ -14,3 +14,19 @@ D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFrame
 D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
 D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
 D:\MyProjects\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.csprojResolveAssemblyReference.cache
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.dll.config
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Data.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Models.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\LaptopListingSystem.Models.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.csprojResolveAssemblyReference.cache
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Data\obj\Debug\LaptopListingSystem.Data.pdb
