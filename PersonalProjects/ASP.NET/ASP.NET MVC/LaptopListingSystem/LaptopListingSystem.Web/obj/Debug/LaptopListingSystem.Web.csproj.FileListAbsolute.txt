@@ -123,3 +123,6 @@ D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.xml
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Common.xml
 D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Ninject.Web.Mvc.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\Kendo.Mvc.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\AutoMapper.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET MVC\LaptopListingSystem\LaptopListingSystem.Web\bin\AutoMapper.xml

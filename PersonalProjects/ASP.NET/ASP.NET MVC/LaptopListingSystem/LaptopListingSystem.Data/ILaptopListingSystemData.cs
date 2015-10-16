@@ -7,8 +7,7 @@
 
     public interface ILaptopListingSystemData
     {
-        DbContext Context { get; }
-        
+        DbContext Context { get; }        
         
         IRepository<User> Users { get; }
         

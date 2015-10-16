@@ -1,0 +1,40 @@
+﻿@model LaptopListingSystem.Web.Models.Comments.CommentViewModel
+
+@{
+    ViewBag.Title = "_CommentPartial";
+}
+
+@*<div>
+    <div>
+    <strong>Commented by: </strong><em>@Model.AuthorUserName</em>
+    </div>
+    <div>@Model.Content</div>
+    <br />
+</div>*@
+
+<div>
+    @*<h4>Comments</h4>*@
+    
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayName("Author")  @*//TODO   Choose label name for comment's author  model => model.AuthorUserName???*@
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AuthorUserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Content)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Content)
+        </dd>
+
+    </dl>
+</div>
+@*<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>*@
