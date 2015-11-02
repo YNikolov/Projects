@@ -10,3 +10,15 @@ c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists
 c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.xml
 c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
 c:\users\xeruvim\documents\visual studio 2013\Projects\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll.config
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Data.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Model.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\MusicArtists.Model.pdb
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.csprojResolveAssemblyReference.cache
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.dll
+D:\MyProjects\Projects\PersonalProjects\ASP.NET\ASP.NET Web API\MusicArtists\MusicArtists.Data\obj\Debug\MusicArtists.Data.pdb

@@ -43,12 +43,7 @@ namespace MusicArtists.Services.Controllers
 
             return Ok(artists);
         }
-
-        //[HttpGet]
-        //public IHttpActionResult ByCount()
-        //{
-        //    var artists = this.data.Artists.All().Count();
-        //}
+               
         [HttpGet]
         public IHttpActionResult ById(int id)
         {
@@ -122,13 +117,7 @@ namespace MusicArtists.Services.Controllers
                     .FirstOrDefault(a => a.Name == artist);
 
             this.CheckIfExist(existingArtist, "Artist");
-            //var albumInArtist = existingArtist.Albums.Contains
-                
-            //if ()
-            //{
-                
-            //}
-
+            
             var existingAlbum = this.data.Albums
                 .All()
                 .FirstOrDefault(a => a.Name == album);
@@ -156,15 +145,7 @@ namespace MusicArtists.Services.Controllers
                 .FirstOrDefault(a => a.Id == id);
             
             this.CheckIfExist(artist, "Artist");
-            //var artistAlbums = this.data.Albums.All().Where(a => a.ArtistId == id);
-            //var albumId = this.data.Albums.All().Where()
-            //var albumSongs = this.data.Songs.All().Where(artistAlbums.Contains(); 
-
-            //foreach (var alb in artistAlbums)
-            //{
-            //    this.data.Albums.Delete(alb);
-            //}
-            
+                       
             this.data.Artists.Delete(artist);
 
             this.data.SaveChanges();
@@ -241,17 +222,6 @@ namespace MusicArtists.Services.Controllers
                 });
             }
 
-        }
-        //private void CheckIfExist(object obj)
-        //{
-        //    if (obj == null)
-        //    {
-        //        throw new HttpResponseException(new HttpResponseMessage(HttpStatusCode.BadRequest)
-        //       {
-        //           ReasonPhrase = "Such Artist does not exist!"
-        //       });
-        //    }
-
-        //}
+        }        
     }
 }

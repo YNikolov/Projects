@@ -19,7 +19,7 @@ musicArtistsApp.factory('musicArtistsData',
             return deferred.promise;
         }
 
-        function getArtistByName(inputArtist) {                //function getArtistByName(inputArtist){
+        function getArtistByName(inputArtist) {               
             var deferred = $q.defer();
 
             $http({
@@ -109,7 +109,7 @@ musicArtistsApp.factory('musicArtistsData',
 
             $http({
                 method: 'GET',
-                url: url + 'Albums/ByAlbumsName?albName=' + albName // test with params: nAme: albName.Name.......
+                url: url + 'Albums/ByAlbumsName?albName=' + albName 
             })
                 .success(function (data, status, headers, config) {
                     deferred.resolve(data);
@@ -133,7 +133,7 @@ musicArtistsApp.factory('musicArtistsData',
                 .error(function(data, status, headers, config){
                    deferred.reject(data);
                 });
-            //api/Albums/ArtistId/{id}
+            
             return deferred.promise;
         }
         function addAlbumToArtist(artist, album){

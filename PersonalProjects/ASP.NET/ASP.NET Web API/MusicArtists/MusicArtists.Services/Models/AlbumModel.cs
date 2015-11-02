@@ -27,11 +27,15 @@
             }
         }
         public int Id { get; set; }
+        
         public string Name { get; set; }
-        //public DateTime Year { get; set; }
+        
         public string Genre { get; set; }
+        
         public string ImageUrl { get; set; }
+        
         public string Producer { get; set; }
+        
         public int? ArtistId { get; set; }      
     }
 }

@@ -15,8 +15,7 @@ namespace MusicArtists.Services.Controllers
     using MusicArtists.Data.Interfaces;
     using MusicArtists.Model;
     using MusicArtists.Services.Models;
-
-    //using MusicArtists.Model;
+        
     public class AlbumsController : ApiController
     {
         private IMusicArtistsData data;
@@ -164,62 +163,17 @@ namespace MusicArtists.Services.Controllers
             if (!this.ModelState.IsValid)
             {
                 return BadRequest(ModelState);
-            }
-
-            //var existingAlbum = this.data.Albums.All()
-            //    .FirstOrDefault(a => a.Id == id);
+            }                     
 
             var tt = this.data.Artists.All()
                 .FirstOrDefault(a => a.Id == id).Albums.Any(al => al.Name == name);
-            //tt.Albums.Add(newAlbum);
+            
             var del = this.data.Artists.All()
                 .FirstOrDefault(a => a.Id == id).Albums;
-            //del.Remove(del.Remove(tt));
-           //var art = this.data.Artists.Add(tt.Albums.Add(newAlbum);
-            //var art = this.data.Artists.All()
-            //    .Select(ArtistModel.FromArtist);
-                
-                
-
-            //var oldArtist = existingAlbum.ArtistId;
-//            this.data.Artists.Detach(existingAlbum);
-            //id na artist,detach albmid in artist.albums
-
-
-
-
-            //var album = new Album
-            //{
-            //    Id = ne
-            //}
-            //var album = this.data.Albums
-            //    .All()
-            //    .FirstOrDefault(a => a.Id == id);
-
-            //if (album == null)
-            //{
-            //    return BadRequest("Such Album does not exist");
-            //}
             
-            //album.Id = id;
-            //album.Name = newAlbum.Name;
-            //album.Genre = newAlbum.Genre;
-            ////artist.Select(a => a.Albums
-            ////artist.
-
-            //album.ArtistId = newAlbum.ArtistId;
-            //album.Artist = newAlbum.Artist;
-            //album.ImageUrl = newAlbum.ImageUrl;
-            
-
-
-            //this.data.Albums.Update(album);
-            //this.data.SaveChanges();
-            //newAlbum.Id = id;
-            //newAlbum.Id = album.Id;
-
             return Ok();
         }
+
         [HttpPost]
         public IHttpActionResult AddSong(string albName, string songName)
         {
