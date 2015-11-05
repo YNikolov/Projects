@@ -95,8 +95,8 @@ namespace ArticlesForum.Data.Migrations
                     {
                         Author = users[this.random.RandomNumber(0, users.Count - 1)],
                         Image = image,
-                        Title = this.random.RandomString(5, 30),
-                        Content = this.random.RandomString(100, 400)
+                        Title =  "Sample" + j,
+                        Content = "This is a sample preview, to add or comment article, please register into the system."
                     };
 
                     for (int c = 0; c < 5; c++)
